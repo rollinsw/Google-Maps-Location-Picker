@@ -4,7 +4,7 @@ Google-Maps-Location-Picker
 <p>Returns latitude and longitude by dropping a point on the map, moving the pointer around the map or by location search.</p>
 
 <h2>Description</h2>
-<p>Use Google Maps to find the latitude and longitude of any point. This is intended to be used in applications where you need to capture the latitude and longitude of a point specified by a user on the map. Latitude and longitude will be returned in one of three ways:</p>
+<p>Use Google Maps to find the latitude and longitude of any point. This is intended to be used in an application where you need to capture the latitude and longitude of a point specified by a user on the map. Latitude and longitude will be returned in one of three ways:</p>
 <ul>
 <li>Click any point on the map to drop a map marker</li>
 <li>Drag the map marker to any point on the map</li>
@@ -22,14 +22,8 @@ Google-Maps-Location-Picker
 </ul>
 </p>
 
-<h2>Installation</h2>
-
-
-<h2>Setup</h2>
-<p></p>
-
-<h2>Usage</h2>
-<p></p>
+<h2>Installation and Setup</h2>
+<p>Open map.html in your browswer.</p>
 
 <h2>Credit</h2>
 <p>Location search based on Robbie Shade's example: http://rjshade.com/2012/03/27/Google-Maps-autocomplete-with-jQuery-UI/</p>
