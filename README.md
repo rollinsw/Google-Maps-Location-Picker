@@ -23,7 +23,7 @@ Google-Maps-Location-Picker
 </p>
 
 <h2>Installation and Setup</h2>
-<p>Open map.html in your browswer.</p>
+<p>Open map.html in your broswer.</p>
 
 <h2>Credit</h2>
 <p>Location search based on Robbie Shade's example: http://rjshade.com/2012/03/27/Google-Maps-autocomplete-with-jQuery-UI/</p>
